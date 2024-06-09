@@ -9,7 +9,7 @@ export default async function Home() {
       <h1 className="text-[46px]">ToDoアプリ</h1>
       <div className="flex flex-col gap-4 before:content-['']">
         <div>
-          <h2>おべんきょう</h2>
+          <h2>おべんきょ</h2>
         </div>
         <div>
           <h2>人</h2>
